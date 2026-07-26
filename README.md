@@ -14,8 +14,6 @@ This interactive Excel dashboard analyzes Urban Threads sales data using Pivot T
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- XLOOKUP
-- INDEX-MATCH
 - Conditional Formatting
 
 ## 📈 Dashboard Highlights
