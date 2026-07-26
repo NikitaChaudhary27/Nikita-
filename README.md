@@ -28,3 +28,13 @@ This interactive Excel dashboard analyzes Urban Threads sales data using Pivot T
 
 - Urban_Threads_Sales_Dataset.xlsx
 - DASHBOARD FINAL.png
+
+## 📂 View the Live File
+
+To interact with the dashboard and formulas:
+
+1. Download the Excel file from this repository.
+2. Open it in Microsoft Excel.
+3. Or click the link below:
+
+[📊 View Dashboard](./Urban_Threads_Sales_Dataset_10.xlsx)
